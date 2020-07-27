@@ -12,9 +12,9 @@
 
 👨🏻‍💻 4 years as a developer and couting. Started as a backend-er. Turned frontend-er. Now fullstack-er.
 
-💼 Working with React.js, React-native and Node.js (REST & GraphQL).
+💼 Working with __React.js, React-native__ and __Node.js (REST & GraphQL)__.
 
-🙇‍♂️ Currently learning: Angular.
+🙇‍♂️ Currently learning: __Angular__.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
