@@ -4,15 +4,15 @@
 
 #### Contact me 📫
 
-[![image](https://gist.githubusercontent.com/radualex/51de7bfd86b262fec6509eecdafa5a90/raw/3b837e609b3cc263d396cbd78bedab38f930a509/icons8-twitter.svg)](https://www.twitter.com/Al_Radu)
-[![image](https://gist.githubusercontent.com/radualex/41284d44de5d3feac79aa446a633cc20/raw/31a8b9f425fbbe2d2ff8f19a287d2d6a6a69c6b0/icons8-linkedin.svg)](https://www.linkedin.com/in/rastoica)
 [![image](https://gist.githubusercontent.com/radualex/049ed128dde3652f0ecea8726887a2f6/raw/873c95fa61c3e31dfd4cf1e2fc159b0d82f52dba/icons8-gmail.svg)](mailto:radu.stoica1994@gmail.com)
+[![image](https://gist.githubusercontent.com/radualex/41284d44de5d3feac79aa446a633cc20/raw/31a8b9f425fbbe2d2ff8f19a287d2d6a6a69c6b0/icons8-linkedin.svg)](https://www.linkedin.com/in/rastoica)
+[![image](https://gist.githubusercontent.com/radualex/51de7bfd86b262fec6509eecdafa5a90/raw/3b837e609b3cc263d396cbd78bedab38f930a509/icons8-twitter.svg)](https://www.twitter.com/Al_Radu)
 
 ---
 
 👨🏻‍💻 4 years as a developer and couting. Started as a backend-er. Turned frontend-er. Now fullstack-er.
 
-💼 Working with React.js, React-native and Node.js.
+💼 Working with React.js, React-native and Node.js (REST & GraphQL).
 
 🙇‍♂️ Currently learning: Angular.
 
