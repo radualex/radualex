@@ -10,7 +10,7 @@
 
 ---
 
-👨🏻‍💻 4 years as a developer and couting. Started as a backend-er. Turned frontend-er. Now fullstack-er.
+👨🏻‍💻 4 years as a developer and couting. I have started as a backend-er and meanwhile developed a passion for front-end. Now, I am a fullstack-er.
 
 💼 Working with __React.js, React-native__ and __Node.js (REST & GraphQL)__.
 
