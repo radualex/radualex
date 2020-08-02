@@ -1,4 +1,4 @@
-### How can I help you? 👋
+### Hello there! 👋
 
 <!-- icons  -->
 
