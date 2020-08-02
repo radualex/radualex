@@ -10,11 +10,11 @@
 
 ---
 
-👨🏻‍💻 4 years as a developer and couting. I have started as a backend-er and meanwhile developed a passion for front-end. Now, I am a fullstack-er.
+👨🏻‍💻 4 years as a full-stack developer and counting. I build web applications for a living.
 
 💼 Working with __React.js, React-native__ and __Node.js (REST & GraphQL)__.
 
-🙇‍♂️ Currently learning: __Angular__.
+🙇‍♂️ Currently learning: __Angular, Tensorflow__.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
