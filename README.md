@@ -12,9 +12,9 @@
 
 👨🏻‍💻 4 years as a full-stack developer and counting. I build web applications for a living.
 
-💼 Working with __React.js, React-native__ and __Node.js (REST & GraphQL)__.
+💼 Working with __React.js, React-native__ and __Node.js__.
 
-🙇‍♂️ Currently learning: __Angular, Tensorflow__.
+🙇‍♂️ Currently learning: __Angular, GraphQL__.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
