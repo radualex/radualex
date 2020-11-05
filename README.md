@@ -10,19 +10,17 @@
 
 ---
 
-👨🏻‍💻 4 years as a full-stack developer and counting. I build web applications for a living.
+👨🏻‍💻 Web developer. I work full-stack, but I prefer front-end over back-end.
 
-💼 Working with __React.js, React-native__ and __Node.js__.
+💼 Working with __React.js, Angular, Vue, Node.js__ ... mostly. Also worked with __C#__ and __Java__ on the back-end side.
 
-🙇‍♂️ Currently learning: __Angular, GraphQL__.
+🙇‍♂️ Currently learning: __GraphQL__.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
 * [Shoe app (React-native)](https://inspiring-kilby-1b40df.netlify.app/)
 
-Stackblitz components:
-
-* [Sleep cycle card (React)](https://stackblitz.com/edit/sleep-cycle-card)
+__Check my twitter or my repositories for more__
 
 <!--
 **radualex/radualex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
