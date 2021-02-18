@@ -12,15 +12,13 @@
 
 👨🏻‍💻 Web developer. I work full-stack, but I prefer front-end over back-end.
 
-💼 Working with __React.js, Angular, Vue, Node.js__ ... mostly. Also worked with __C#__ and __Java__ on the back-end side.
-
-🙇‍♂️ Currently learning: __GraphQL__.
+💼 Working with __React (mostly), Vue, Angular__, and __Node.js, C# and Java__ for backend.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
 * [Shoe app (React-native)](https://inspiring-kilby-1b40df.netlify.app/)
 
-__Check my twitter or my repositories for more__
+__Check my website to see my work: [radualex.me](https://www.radualex.me)__
 
 <!--
 **radualex/radualex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
