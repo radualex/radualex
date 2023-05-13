@@ -10,9 +10,9 @@
 
 ---
 
-👨🏻‍💻 Web developer. I work full-stack, but I prefer front-end over back-end.
+👨🏻‍💻 Software engineer. Frontend at the moment. Fullstack when needed.
 
-💼 Working with __React (mostly), Vue, Angular__, and __Node.js, C# and Java__ for backend.
+💼 Favorite stack: __React, Typescript__. Also likes to touch the backend. Proficient in __Node.Js__ and __Java__.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
