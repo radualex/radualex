@@ -10,9 +10,9 @@
 
 ---
 
-👨🏻‍💻 Software engineer. Frontend at the moment. Fullstack when needed.
+👨🏻‍💻 T-shaped software engineer with a focus for high-quality frontend.
 
-💼 Favorite stack: __React, Typescript__. Also likes to touch the backend. Proficient in __Node.Js__ and __Java__.
+💼 Favourite thing about tech: Building, adding value, understand and fixing business issues. Usually using: __AI/opencode/claude, React, Typescript, Java/Springboot__, but not limited to a specific tech stack.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
