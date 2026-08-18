@@ -12,7 +12,7 @@
 
 👨🏻‍💻 T-shaped software engineer with a focus for high-quality frontend.
 
-💼 Favourite thing about tech: Building, adding value, understand and fixing business issues. Usually using: __AI/opencode/claude, React, Typescript, Java/Springboot__, but not limited to a specific tech stack.
+💼 What I do: Building, adding value, understand and fixing business issues. Usually using: __AI/opencode/claude, React, Typescript, Java/Springboot__, but not limited to a specific tech stack.
 
 Here's some demos:
 * [Task manager (React)](https://taskmanager-radu.netlify.app/)
