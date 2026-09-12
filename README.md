@@ -11,7 +11,7 @@
 
 👨🏻‍💻 T-shaped AI-applied engineer with a focus on high-quality frontend.
 
-💼 What I do: Building, adding value, understand and fixing business issues. Mainly building around: __AI/opencode/claude, React, Typescript, Java/Springboot__. Trying not to limit myself to a specific tech stack anymore tho.
+💼 What I do: Building, adding value, understanding and fixing business issues. Mainly building around: __AI/opencode/claude, React, Typescript, Java/Springboot__. Trying not to limit myself to a specific tech stack anymore tho.
 
 <!--
 Here's some demos:
